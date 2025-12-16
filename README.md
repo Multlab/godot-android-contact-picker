@@ -18,11 +18,11 @@ A native Android plugin for Godot 4 that allows users to pick contacts from thei
 - ✅ Returns contact name and phone number
 - ✅ Simple signal-based API
 - ✅ Compatible with Godot 4.2+
-- ✅ Tested on Godot 4.3.0
+- ✅ Tested on Godot 4.5.1
 
 ### Requirements
 
-- **Godot Version:** 4.2 or higher (tested on 4.3.0)
+- **Godot Version:** 4.2 or higher (tested on 4.5.1)
 - **Platform:** Android (API 21+)
 - **Permissions:** READ_CONTACTS (automatically requested)
 
@@ -130,11 +130,11 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 - ✅ Возвращает имя контакта и номер телефона
 - ✅ Простой API на основе сигналов
 - ✅ Совместим с Godot 4.2+
-- ✅ Протестирован на Godot 4.3.0
+- ✅ Протестирован на Godot 4.5.1
 
 ### Требования
 
-- **Версия Godot:** 4.2 или выше (протестировано на 4.3.0)
+- **Версия Godot:** 4.2 или выше (протестировано на 4.5.1)
 - **Платформа:** Android (API 21+)
 - **Разрешения:** READ_CONTACTS (запрашивается автоматически)
 

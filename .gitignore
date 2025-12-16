@@ -1,0 +1,19 @@
+# Android build files
+android/build/
+android/.gradle/
+android/local.properties
+android/godot-lib.release.aar
+android/*.hprof
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties

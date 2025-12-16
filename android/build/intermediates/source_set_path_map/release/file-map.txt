@@ -1,0 +1,7 @@
+com.multlab.contactpicker-pngs-0 /Users/multlab/cake-stat/addons/ContactPicker/android/build/generated/res/pngs/release
+com.multlab.contactpicker-resValues-1 /Users/multlab/cake-stat/addons/ContactPicker/android/build/generated/res/resValues/release
+com.multlab.contactpicker-mergeReleaseResources-2 /Users/multlab/cake-stat/addons/ContactPicker/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.multlab.contactpicker-mergeReleaseResources-3 /Users/multlab/cake-stat/addons/ContactPicker/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.multlab.contactpicker-merged_res-4 /Users/multlab/cake-stat/addons/ContactPicker/android/build/intermediates/merged_res/release
+com.multlab.contactpicker-main-5 /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/res
+com.multlab.contactpicker-release-6 /Users/multlab/cake-stat/addons/ContactPicker/android/src/release/res

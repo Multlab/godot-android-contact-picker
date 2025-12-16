@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:5:22-69
+application
+ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:7:5-11:19
+meta-data#org.godotengine.plugin.v2.ContactPicker
+ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:8:9-10:71
+	android:value
+		ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:10:13-68
+	android:name
+		ADDED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml:9:13-67
+uses-sdk
+INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml
+INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/multlab/cake-stat/addons/ContactPicker/android/src/main/AndroidManifest.xml

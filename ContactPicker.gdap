@@ -1,0 +1,7 @@
+[config]
+name="ContactPicker"
+binary_type="local"
+binary="bin/release/ContactPicker-release.aar"
+
+[dependencies]
+remote=[]
